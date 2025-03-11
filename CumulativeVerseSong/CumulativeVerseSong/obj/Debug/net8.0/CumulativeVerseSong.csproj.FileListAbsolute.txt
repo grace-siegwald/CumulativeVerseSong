@@ -1,0 +1,14 @@
+C:\Users\kbsie\OneDrive - Columbia College Chicago\School - Spring 2025\Programing\CumulativeVerseSong\CumulativeVerseSong\bin\Debug\net8.0\CumulativeVerseSong.exe
+C:\Users\kbsie\OneDrive - Columbia College Chicago\School - Spring 2025\Programing\CumulativeVerseSong\CumulativeVerseSong\bin\Debug\net8.0\CumulativeVerseSong.deps.json
+C:\Users\kbsie\OneDrive - Columbia College Chicago\School - Spring 2025\Programing\CumulativeVerseSong\CumulativeVerseSong\bin\Debug\net8.0\CumulativeVerseSong.runtimeconfig.json
+C:\Users\kbsie\OneDrive - Columbia College Chicago\School - Spring 2025\Programing\CumulativeVerseSong\CumulativeVerseSong\bin\Debug\net8.0\CumulativeVerseSong.dll
+C:\Users\kbsie\OneDrive - Columbia College Chicago\School - Spring 2025\Programing\CumulativeVerseSong\CumulativeVerseSong\bin\Debug\net8.0\CumulativeVerseSong.pdb
+C:\Users\kbsie\OneDrive - Columbia College Chicago\School - Spring 2025\Programing\CumulativeVerseSong\CumulativeVerseSong\obj\Debug\net8.0\CumulativeVerseSong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kbsie\OneDrive - Columbia College Chicago\School - Spring 2025\Programing\CumulativeVerseSong\CumulativeVerseSong\obj\Debug\net8.0\CumulativeVerseSong.AssemblyInfoInputs.cache
+C:\Users\kbsie\OneDrive - Columbia College Chicago\School - Spring 2025\Programing\CumulativeVerseSong\CumulativeVerseSong\obj\Debug\net8.0\CumulativeVerseSong.AssemblyInfo.cs
+C:\Users\kbsie\OneDrive - Columbia College Chicago\School - Spring 2025\Programing\CumulativeVerseSong\CumulativeVerseSong\obj\Debug\net8.0\CumulativeVerseSong.csproj.CoreCompileInputs.cache
+C:\Users\kbsie\OneDrive - Columbia College Chicago\School - Spring 2025\Programing\CumulativeVerseSong\CumulativeVerseSong\obj\Debug\net8.0\CumulativeVerseSong.dll
+C:\Users\kbsie\OneDrive - Columbia College Chicago\School - Spring 2025\Programing\CumulativeVerseSong\CumulativeVerseSong\obj\Debug\net8.0\refint\CumulativeVerseSong.dll
+C:\Users\kbsie\OneDrive - Columbia College Chicago\School - Spring 2025\Programing\CumulativeVerseSong\CumulativeVerseSong\obj\Debug\net8.0\CumulativeVerseSong.pdb
+C:\Users\kbsie\OneDrive - Columbia College Chicago\School - Spring 2025\Programing\CumulativeVerseSong\CumulativeVerseSong\obj\Debug\net8.0\CumulativeVerseSong.genruntimeconfig.cache
+C:\Users\kbsie\OneDrive - Columbia College Chicago\School - Spring 2025\Programing\CumulativeVerseSong\CumulativeVerseSong\obj\Debug\net8.0\ref\CumulativeVerseSong.dll
